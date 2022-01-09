@@ -19,7 +19,7 @@
   const TITLE = "QuackPack";
   const DESCRTIPTION = "Getting a brand new start. 555 quacks on the Solana blockchain";
   const HEADER_TITLE = "quackpack";
-  const HEADER_LINK = "https://lanablocks.xyz";
+  const HEADER_LINK = "https://duks-mint.vercel.app/";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/duks.gif";
   /***********************************/
